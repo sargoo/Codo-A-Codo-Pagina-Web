@@ -1,63 +1,30 @@
-body{
-    background-color: #FFA07A;
+ .nav-item{
+    border-radius: 50%;;
+ }
+
+.bg-color{
+    background-color: #ffc078;
+}
+.card mb-3{
+    background-color: #ffc078;
 }
 
-h1{
-    text-align: center;
-    
+#whatsapp{
+    border-radius: 50%;
 }
-header{
-    background-color:  #FBCEB1;
-    color:#FF3800;
-    text-align: center;
-    margin-top: 30px;
-}
-
-.nav{
-    background-color: #AA0000;
-    color: #FBCEB1;
-    text-decoration: none;
-    padding: 10px;
-    border-radius: 5px;
-    margin-top: 1px;
-    
-    
-}
-
-
-
-footer{
-    text-align: center;
-    background-color: #AA0000;
-    color: #FBCEB1;
-    
-}
-svg.bi-bi-instagram {
+#instagram{
     color: white;
     background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
     border-radius: 9px;
-    width: 50px;
-    height: 50px;
-    margin: 30px;
 
 }
-
-svg.bi-bi-whatsapp{
-    background: #1DB954;
-    color: white;
-    border-radius: 50px;
-    width: 50px;
-    height: 50px;
-    margin: 30px;
-
-}
-
-svg.bi-bi-linkedin {
-    color:#0076CE;
-    background: #FFF;
+#linkedin{
+    
     border-radius: 5px;
-    width: 50px;
-    height: 50px;
-    margin: 30px;
-
 }
+
+#rounded{
+    border-radius: 50%;
+}
+
+
