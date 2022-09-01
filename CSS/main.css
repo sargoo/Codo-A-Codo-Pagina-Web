@@ -1,0 +1,30 @@
+ .nav-item{
+    border-radius: 50%;;
+ }
+
+.bg-color{
+    background-color: #ffc078;
+}
+.card mb-3{
+    background-color: #ffc078;
+}
+
+#whatsapp{
+    border-radius: 50%;
+}
+#instagram{
+    color: white;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+    border-radius: 9px;
+
+}
+#linkedin{
+    
+    border-radius: 5px;
+}
+
+#rounded{
+    border-radius: 50%;
+}
+
+
